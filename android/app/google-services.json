@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854583467091",
+    "firebase_url": "https://howfa-cb1fe.firebaseio.com",
+    "project_id": "howfa-cb1fe",
+    "storage_bucket": "howfa-cb1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854583467091:android:f0dab8dc340f52a914baa6",
+        "android_client_info": {
+          "package_name": "olusolaolaoye.howfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854583467091-kltohufk8lt752kmdelfjm3mmu63prfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7RAUlz5ZJFt1760oomXVz0yLgWoYq90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854583467091-kltohufk8lt752kmdelfjm3mmu63prfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
